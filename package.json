@@ -2,7 +2,6 @@
   "name": "bootcamp-terminal-tests-ES",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "countAllFromTown.js",
   "directories": {
     "test": "test"
@@ -12,5 +11,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonkululekoNooi/bootcamp-terminal-tests-ES6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NonkululekoNooi/bootcamp-terminal-tests-ES6/issues"
+  },
+  "homepage": "https://github.com/NonkululekoNooi/bootcamp-terminal-tests-ES6#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
 }
