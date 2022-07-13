@@ -1,0 +1,2 @@
+# bootcamp-terminal-tests-ES6
+[![Node.js CI](https://github.com/NonkululekoNooi/bootcamp-terminal-tests-ES6/actions/workflows/node.js.yml/badge.svg)](https://github.com/NonkululekoNooi/bootcamp-terminal-tests-ES6/actions/workflows/node.js.yml)
