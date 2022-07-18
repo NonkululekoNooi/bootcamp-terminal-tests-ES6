@@ -20,7 +20,6 @@ describe('Checking products that have quantity higher than the threshold', funct
 
 assert.deepEqual(results, findItemsOver(itemList, 20));
 
-// assert.deepEqual(results3, findItemsOver(itemList3, 20));
 
     })
     it ("It should return the products that have the higher quantity than the threshold",function(){
